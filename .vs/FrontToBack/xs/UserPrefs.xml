@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{97DE5835-85BF-4B8F-B5A2-8FD8B433F1B2}|Default">
+  <MonoDevelop.Ide.ItemProperties.FrontToBack PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/Views/Shared/_Layout.cshtml" relfile="FrontToBack/Views/Shared/_Layout.cshtml" line="99" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FrontToBack/Views/Shared/_Layout.cshtml">
+    <Files>
+      <File FileName="FrontToBack/Program.cs" Line="14" Column="1" />
+      <File FileName="FrontToBack/Views/_ViewImports.cshtml" Line="4" Column="24" />
+      <File FileName="FrontToBack/Views/_ViewStart.cshtml" />
+      <File FileName="FrontToBack/Views/Shared/_Layout.cshtml" Line="96" Column="39" />
+      <File FileName="FrontToBack/Controllers/HomeController.cs" Line="19" Column="59" />
+      <File FileName="FrontToBack/Controllers/AboutController.cs" Line="25" Column="1" />
+      <File FileName="FrontToBack/Controllers/ContactController.cs" Line="1" Column="1" />
+      <File FileName="FrontToBack/Controllers/ServiceController.cs" />
+      <File FileName="FrontToBack/Views/Home/Index.cshtml" Line="389" Column="1" />
+      <File FileName="FrontToBack/Views/About/Index.cshtml" Line="40" Column="1" />
+      <File FileName="FrontToBack/Views/Contact/Index.cshtml" Line="50" Column="1" />
+      <File FileName="FrontToBack/Views/Service/Index.cshtml" Line="111" Column="1" />
+      <File FileName="FrontToBack/appsettings.json" />
+      <File FileName="FrontToBack/Context/FrontToBackDbContext.cs" Line="19" Column="1" />
+      <File FileName="FrontToBack/Models/Slide.cs" Line="1" Column="1" />
+      <File FileName="FrontToBack/Migrations/20230620065700_addedslidertable.cs" />
+      <File FileName="FrontToBack/Models/About.cs" Line="14" Column="1" />
+      <File FileName="FrontToBack/HomewVM/HomeViewModel.cs" Line="4" Column="33" />
+      <File FileName="FrontToBack/Models/Setting.cs" Line="8" Column="34" />
+      <File FileName="FrontToBack/Services/SettingService.cs" Line="11" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FrontToBack" expanded="True" selected="True">
+            <Node name="FrontToBack" expanded="True">
+              <Node name="Context" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,39 @@
+﻿@model About
+@section css{
+    <style>
+        .hero_area {
+             height: auto; 
+        }
+    </style>
+
+}
+
+
+<section class="about_section layout_padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="detail-box">
+                    <div class="heading_container">
+                        <h2>
+                            About Us
+                        </h2>
+                    </div>
+                    <p>
+       @Model.Description
+                    </p>
+                    <a href="">
+                        Get Started
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="img-box">
+                    <img src="images/@Model.Image"alt="">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- end about section -->
+<!-- info section -->

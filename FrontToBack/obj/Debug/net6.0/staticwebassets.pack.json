@@ -1,0 +1,153 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/obj/Debug/net6.0/scopedcss/projectbundle/FrontToBack.bundle.scp.css",
+      "PackagePath": "staticwebassets/FrontToBack.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/css/.DS_Store",
+      "PackagePath": "staticwebassets/css/.DS_Store"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/css/bootstrap.css",
+      "PackagePath": "staticwebassets/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/css/responsive.css",
+      "PackagePath": "staticwebassets/css/responsive.css"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/css/style.css.map",
+      "PackagePath": "staticwebassets/css/style.css.map"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/images/about-img.png",
+      "PackagePath": "staticwebassets/images/about-img.png"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/images/body_bg.jpg",
+      "PackagePath": "staticwebassets/images/body_bg.jpg"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/images/call-o.png",
+      "PackagePath": "staticwebassets/images/call-o.png"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/images/call.png",
+      "PackagePath": "staticwebassets/images/call.png"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/images/client.jpg",
+      "PackagePath": "staticwebassets/images/client.jpg"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/images/contact-img.jpg",
+      "PackagePath": "staticwebassets/images/contact-img.jpg"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/images/envelope-o.png",
+      "PackagePath": "staticwebassets/images/envelope-o.png"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/images/envelope.png",
+      "PackagePath": "staticwebassets/images/envelope.png"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/images/hero-bg.jpg",
+      "PackagePath": "staticwebassets/images/hero-bg.jpg"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/images/location-o.png",
+      "PackagePath": "staticwebassets/images/location-o.png"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/images/location.png",
+      "PackagePath": "staticwebassets/images/location.png"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/images/logo.png",
+      "PackagePath": "staticwebassets/images/logo.png"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/images/menu.png",
+      "PackagePath": "staticwebassets/images/menu.png"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/images/next-white.png",
+      "PackagePath": "staticwebassets/images/next-white.png"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/images/next.png",
+      "PackagePath": "staticwebassets/images/next.png"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/images/offer-img.jpg",
+      "PackagePath": "staticwebassets/images/offer-img.jpg"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/images/prev-white.png",
+      "PackagePath": "staticwebassets/images/prev-white.png"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/images/prev.png",
+      "PackagePath": "staticwebassets/images/prev.png"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/images/quote.png",
+      "PackagePath": "staticwebassets/images/quote.png"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/images/s-1.png",
+      "PackagePath": "staticwebassets/images/s-1.png"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/images/s-2.png",
+      "PackagePath": "staticwebassets/images/s-2.png"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/images/s-3.png",
+      "PackagePath": "staticwebassets/images/s-3.png"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/images/s-4.png",
+      "PackagePath": "staticwebassets/images/s-4.png"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/images/search-icon.png",
+      "PackagePath": "staticwebassets/images/search-icon.png"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/js/bootstrap.js",
+      "PackagePath": "staticwebassets/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/ehedtagiyev/Desktop/FrontToBack/FrontToBack/wwwroot/js/jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets/js/jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.FrontToBack.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.FrontToBack.props",
+      "PackagePath": "build\\FrontToBack.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.FrontToBack.props",
+      "PackagePath": "buildMultiTargeting\\FrontToBack.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.FrontToBack.props",
+      "PackagePath": "buildTransitive\\FrontToBack.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
